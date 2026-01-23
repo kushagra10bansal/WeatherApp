@@ -1,5 +1,3 @@
-<img width="183" height="345" alt="image" src="https://github.com/user-attachments/assets/f5879e36-7671-42f9-b338-57f309405a26" />Weather App
-
 A modern **SwiftUI-based Weather App** built as part of an iOS assignment.
 
 ## ✨ Features
