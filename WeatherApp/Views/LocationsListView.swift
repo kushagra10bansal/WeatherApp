@@ -24,14 +24,12 @@ struct LocationsListView: View {
 
                     Spacer()
 
-                    Image(systemName: location.weather.icon)
+                    Image(systemName: "location.fill")
                         .foregroundColor(.orange)
                 }
                 .padding(.vertical, 8)
             }
-            .listRowBackground(
-                Color.white.opacity(0.05) 
-            )
+            .listRowBackground(Color.white.opacity(0.05))
         }
         .navigationTitle("Locations")
         .searchable(text: $searchText, prompt: "Search city")

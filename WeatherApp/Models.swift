@@ -1,7 +1,7 @@
 import Foundation
 
 //Weather
-enum Weather: Hashable {
+enum Weather:Hashable {
     case sunny
     case foggy
     case snow
@@ -24,7 +24,7 @@ enum Weather: Hashable {
     }
 }
 
-//Temperature Model
+// MARK: - Temperature Model
 struct Temperature: Hashable {
     let min: Int
     let max: Int
@@ -34,10 +34,12 @@ struct Temperature: Hashable {
     }
 }
 
-//Location Model
-struct Location: Identifiable, Hashable {
-    let id = UUID()
+// MARK: - Location Model
+struct Location: Identifiable,Hashable {
+    let id: UUID = UUID()
     let name: String
+    let latitude: Double
+    let longitude: Double
     let weather: Weather
     let temperature: Temperature
 }
