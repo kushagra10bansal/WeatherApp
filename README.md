@@ -14,16 +14,20 @@ A modern **SwiftUI-based Weather App** built as part of an iOS assignment.
 - SF Symbols
 
 ## 📸Screenshots
+### App icon and Launch Screen
+<img width="394" height="790" alt="image" src="https://github.com/user-attachments/assets/9c9b0aa6-d2b7-454e-b83a-10d624571f5c" />
 
 ### Landing Screen
 <img width="192" height="357" alt="image" src="https://github.com/user-attachments/assets/3161b5d3-4612-4533-aab5-a3ec0a50ed1b" />
 
-### Locations List
-<img width="185" height="347" alt="image" src="https://github.com/user-attachments/assets/00c70e66-520c-4e5a-9109-a8cbc05f7a85" />
-<img width="183" height="345" alt="image" src="https://github.com/user-attachments/assets/b0d6a60c-1af9-434d-a302-b0fc6c2849fd" />
+### Locations List 
+<img width="186" height="383" alt="image" src="https://github.com/user-attachments/assets/ea57be86-c690-4866-aae2-683614c31b58" />
+<img width="186" height="386" alt="image" src="https://github.com/user-attachments/assets/bf429c37-fde6-4b68-a52e-e087059afdb8" />
+<img width="194" height="387" alt="image" src="https://github.com/user-attachments/assets/32366985-1a41-4818-a81a-8c84e0cba5de" />
 
 ### Detail Screen
-<img width="174" height="336" alt="image" src="https://github.com/user-attachments/assets/73a0c6a0-9400-4867-a667-71f39d81ba7b" />
+<img width="187" height="389" alt="image" src="https://github.com/user-attachments/assets/f6da17bf-0f3f-4114-b02d-d8a77db9783a" />
+<img width="190" height="390" alt="image" src="https://github.com/user-attachments/assets/2ff94da0-5d7b-447d-b35b-ffdc9b805450" />
 
 
 
