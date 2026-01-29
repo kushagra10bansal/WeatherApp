@@ -2,7 +2,7 @@ import SwiftUI
 
 enum AppRoute: Hashable {
     case list
-    case detail(Location)
+    case detail(LocationEntity)
 }
 
 struct RootView: View {

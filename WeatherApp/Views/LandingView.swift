@@ -46,7 +46,4 @@ struct LandingView: View {
     }
 }
 
-#Preview {
-    LandingView(path: .constant(NavigationPath()))
-}
 
